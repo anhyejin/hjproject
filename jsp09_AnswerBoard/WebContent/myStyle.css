@@ -1,0 +1,34 @@
+	
+	table{
+		
+		margin-top:auto;
+		margin-bottom:auto;
+		margin-left:auto;
+		margin-right:auto;
+		border: 1px gray solid;
+		border-collapse: collapse;
+		
+	}
+	textarea{
+		border: 0px; 
+		padding: 0; 
+		height: 100%; 
+		width: 100%;
+		resize: none;
+	}
+	h1{
+	text-align: center;
+	}
+	
+	#textbox{
+	border: 0px;
+	width: 100%; 
+	padding: 0;
+	}
+	
+	.mainForm > h1{
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+	
