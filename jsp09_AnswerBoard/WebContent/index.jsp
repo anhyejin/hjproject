@@ -18,7 +18,7 @@ proxy server -> response.setHeader("Expires", "0");
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>index-answerAnswer</title>
 <link rel="stylesheet" type="text/css" href="myStyle.css">
 <script type="text/javascript">
 	function registForm(){
